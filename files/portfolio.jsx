@@ -126,11 +126,11 @@ export default function Portfolio() {
                   <Mail className="w-4 h-4 text-cyan-400" />
                   <span className="text-slate-300">Email</span>
                 </a>
-                <a href="https://linkedin.com/in/heinkhant" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-slate-800/50 hover:bg-slate-800 rounded-full transition-all duration-300 border border-slate-700/50 hover:border-cyan-500/50">
+                <a href="https://linkedin.com/in/heinkhantzaw" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-slate-800/50 hover:bg-slate-800 rounded-full transition-all duration-300 border border-slate-700/50 hover:border-cyan-500/50">
                   <Linkedin className="w-4 h-4 text-cyan-400" />
                   <span className="text-slate-300">LinkedIn</span>
                 </a>
-                <a href="https://github.com/heinkhant" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-slate-800/50 hover:bg-slate-800 rounded-full transition-all duration-300 border border-slate-700/50 hover:border-cyan-500/50">
+                <a href="https://github.com/heinkhantzaw567" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-slate-800/50 hover:bg-slate-800 rounded-full transition-all duration-300 border border-slate-700/50 hover:border-cyan-500/50">
                   <Github className="w-4 h-4 text-cyan-400" />
                   <span className="text-slate-300">GitHub</span>
                 </a>
